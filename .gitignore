@@ -1,0 +1,11 @@
+# Feature worktrees, installed skill copies (source: Meta/skills) and local agent settings
+.worktrees/
+.claude/skills/
+.cursor/skills/
+.claude/settings.local.json
+
+# Add your stack's generated folders and build output below.
+
+# OS
+.DS_Store
+Thumbs.db
